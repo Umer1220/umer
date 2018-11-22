@@ -1,0 +1,15 @@
+//////////////////////////////////////////////////////////////////////////////////////////////////	
+	fstream employeesFile;
+	employeesFile.open("Employees.txt", ios::in | ios::out | ios::app); // open file
+	vector<Employee> myEmployees; 
+	myEmployees = employeeFileRead(employeesFile); // reads from file and assign to the vector
+	Displayvec_Emp(	myEmployees ); // Display vector of Employee
+
+//////////////////////////////////////////////////////////////////////////////////////////////////
+	fstream DishesFile;
+	DishesFile.open("Dishes.txt", ios::out | ios::in | ios::app);
+	Vec_Dish dishes;
+	dishes = DishFileRead(DishesFile);
+	DisplayVec_Dish(dishes);
+
+////////////////////////////////////////////////////////////////////////////////////////////////

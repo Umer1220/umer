@@ -1,0 +1,19 @@
+9
+1500 20                    stake
+Main Course
+500 23                    fried Prawn
+Appetizer
+250 40                    Cocktail
+DrinK
+1000 12                    Fajita sizzler
+Main Course
+600 24                    meat balls
+Appetizer
+400 240                    smoothie
+DrinK
+1600 15                    salmon fish
+Main Course
+2500 12                   Rosted Lobster
+Main Course
+120 500   Buryani
+Main Course

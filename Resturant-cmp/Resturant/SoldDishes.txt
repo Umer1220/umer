@@ -1,0 +1,7 @@
+3
+1500 2                    stake
+Main Course
+1500 1                    stake
+Main Course
+500 2                    fried Prawn
+Appetizer
